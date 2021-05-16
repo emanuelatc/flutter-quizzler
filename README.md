@@ -2,11 +2,9 @@
 
 Quizzler is a quiz app that tests your general knowledge.
 
-I created this application following the official recommended course for Flutter:
+I created this application following the officially recommended course by Flutter found on [The App Brewery](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart) website.
 
-https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart
-
-The Quizzler application is found on Section 10.
+The Quizzler application can be found in the 10th section of the course.
 
 ## Finished result
 
